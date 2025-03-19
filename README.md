@@ -11,7 +11,7 @@ This script demonstrates how to use the Logs Ingestion API in Azure Monitor to s
 **Reference**:  
 [Azure Monitor Logs Ingestion Tutorial](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/tutorial-logs-ingestion-portal)
 
----
+
 
 ### 2. `IngestToLaw.py` (HTTP Data Collector API - Deprecated)
 
@@ -20,7 +20,7 @@ This script shows how to use the **HTTP Data Collector API** to send log data to
 **Reference**:  
 [HTTP Data Collector API (Deprecated)](https://learn.microsoft.com/en-us/previous-versions/azure/azure-monitor/logs/data-collector-api?tabs=powershell)
 
----
+
 
 ## Requirements
 
@@ -34,8 +34,6 @@ This script shows how to use the **HTTP Data Collector API** to send log data to
 This repository is provided **as-is**, without any warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or non-infringement. The authors are not responsible for any damages or issues arising from the use of this code, including but not limited to direct, indirect, incidental, special, exemplary, or consequential damages, or loss of data or profits.
 
 By using this repository, you agree to do so at your own risk. The authors make no representations or guarantees about the functionality, accuracy, or completeness of the code, and you are responsible for ensuring the code works as intended in your environment.
-
----
 
 ## License
 
