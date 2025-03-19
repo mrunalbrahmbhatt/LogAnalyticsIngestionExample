@@ -1,5 +1,5 @@
 {
     "workspace_id": "your_workspace_id",
     "shared_key": "your_shared_key",
-    "log_type": "LogName"
+    "log_type": "LogTableName"
 }
